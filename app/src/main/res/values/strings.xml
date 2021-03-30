@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application By Sambit</string>
+    <string name="b1">Send</string>
+    <string name="b2">Voice Input</string>
+    <string name="h1">Enter your message</string>
+    <string name="h2">Enter your email or phone number</string>
+    <string name="b3">Confirm</string>
+    <string name="TOAST_SMS">Sending SMS..</string>
+    <string name="TOAST_EMAIL">Sending Email..</string>>
+</resources>
