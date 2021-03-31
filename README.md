@@ -8,3 +8,4 @@ chronological order of their usage.
 3. https://developer.android.com/
 4. https://www.youtube.com/
 5. https://www.google.com/
+6. https://stackoverflow.com/questions/28390574/checking-toast-message-in-android-espresso
